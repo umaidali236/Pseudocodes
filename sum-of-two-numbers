@@ -1,0 +1,6 @@
+Procedure SumOfTwoNumbers
+READ num1
+READ num2
+sum = num1 + num2
+PRINT sum
+End Procedure
