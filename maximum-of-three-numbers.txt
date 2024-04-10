@@ -2,7 +2,7 @@ Procedure MaximumOfThreeNumbers
 READ a,b,c
 IF(a>b) and (a>c) THEN
 PRINT a is the largest number 
-ELSE IF(b>C) THEN
+ELSE IF(b>c) THEN
 PRINT b is the largest number 
 ELSE
 PRINT c is the largest number
