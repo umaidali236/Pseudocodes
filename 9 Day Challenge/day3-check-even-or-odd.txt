@@ -5,5 +5,4 @@ IF(rem==0)
     PRINT number is even 
 ELSE
     PRINT number is odd   
-END IF     
 End Procedure 
