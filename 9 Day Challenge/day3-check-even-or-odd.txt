@@ -2,8 +2,8 @@ Procedure CheckEvenOrOdd
 READ num
 rem=num%2
 IF(rem==0)
-    Print num is even 
+    PRINT number is even 
 ELSE
-    Print num is odd   
+    PRINT number is odd   
 END IF     
 End Procedure 
