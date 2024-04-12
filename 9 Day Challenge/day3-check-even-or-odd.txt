@@ -1,6 +1,6 @@
 Procedure CheckEvenOrOdd
 READ num
-rem=num%2
+rem = num%2
 IF(rem==0)
     PRINT number is even 
 ELSE
