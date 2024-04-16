@@ -1,0 +1,5 @@
+Procedure AreaOfRectangle
+READ length , breadth
+area = length*breadth
+PRINT area
+End Procedure
