@@ -1,5 +1,5 @@
 Procedure AreaOfRectangle
-READ length , breadth
+INPUT length , breadth
 area = length*breadth
 PRINT area
 End Procedure

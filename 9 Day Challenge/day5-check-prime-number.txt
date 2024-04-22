@@ -1,5 +1,5 @@
 Procedure CheckPrime
-READ n 
+INPUT n 
 flag = 0
 IF(n==0||n==1)
     flag = 1

@@ -1,5 +1,5 @@
 Procedure FibonacciSeries
-READ limit 
+INPUT limit 
 num1 = 0
 num2 = 1
 PRINT fibonacci series :

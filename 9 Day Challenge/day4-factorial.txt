@@ -1,5 +1,5 @@
 Procedure Factorial
-READ num
+INPUT num
 factorial = 1
 WHILE (num>1)
     factorial = factorial*num 

@@ -1,5 +1,5 @@
 Procedure SquareRoot
-READ num 
+INPUT num 
 temp = 0
 sqrt = num / 2
 WHILE (sqrt != temp){
