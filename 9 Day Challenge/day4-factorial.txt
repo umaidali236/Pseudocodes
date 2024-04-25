@@ -1,7 +1,7 @@
 Procedure Factorial
 INPUT num
 factorial = 1
-WHILE (num>1)
+WHILE num>1
     factorial = factorial*num 
     num = num-1
 PRINT factorial        
