@@ -1,9 +1,9 @@
 Procedure CheckEvenOrOdd
 INPUT num
 rem = num%2
-IF(rem==0)
+IF rem==0 :
     PRINT number is even 
-ELSE
+ELSE :
     PRINT number is odd
 END iF       
 End Procedure 
