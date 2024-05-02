@@ -3,7 +3,7 @@ INPUT limit
 num1 = 0
 num2 = 1
 PRINT fibonacci series :
-for(i = 0; i < limit; i++)
+FOR i = 0 to limit
     num3 = num1+num2
     PRINT num1
     num1 = num2
