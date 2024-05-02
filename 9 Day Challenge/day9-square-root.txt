@@ -2,8 +2,9 @@ Procedure SquareRoot
 INPUT num 
 temp = 0
 sqrt = num / 2
-WHILE sqrt != temp:
-    temp = sqrt;
+WHILE sqrt != temp
+    temp = sqrt
     sqrt = (num/temp + temp)/2
+END WHILE    
 PRINT sqrt
 End Procedure
