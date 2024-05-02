@@ -1,13 +1,13 @@
 Procedure CheckPrime
 INPUT n 
 flag = 0
-IF(n==0||n==1)
+IF n==0 OR n==1
     flag = 1
 FOR i = 2 to n/2
-    IF(n%i==0)  
+    IF n%i==0  
         flag = 1
         BREAK
-IF(flag==0)
+IF flag==0
     PRINT n is a prime number
 ELSE
     PRINT n is not a prime number            
