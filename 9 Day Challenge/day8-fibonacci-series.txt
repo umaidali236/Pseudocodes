@@ -2,7 +2,7 @@ Procedure FibonacciSeries
 INPUT limit 
 num1 = 0
 num2 = 1
-PRINT fibonacci series :
+PRINT fibonacci series 
 FOR i = 0 to limit
     num3 = num1+num2
     PRINT num1
